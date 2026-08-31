@@ -1,27 +1,51 @@
-# ☁️ AWS Systemic Architecture & AI Ledger
+# ☁️ AWS Learning Notes & Certifications
 **Curated by:** Abhishek
 
-This repository is a localized neural network of my cloud engineering notes, architectural diagrams, and systemic observations regarding Amazon Web Services.
+Welcome to my repository of Amazon Web Services (AWS) study notes, architectural concepts, and hands-on learnings. This repository serves as a portfolio of my cloud progress and a reference guide for key AWS services.
 
-## 🎖️ Certification State
-- **Achieved:** [AWS Certified AI Practitioner] *(August 2026)*
-- **In Progress:** [AWS Certified Solutions Architect – Associate (SAA)]
+---
 
-## 🏗️ Repository Anatomy
+## 🎖️ Certifications & Badges
 
-### 1. Artificial Intelligence & Machine Learning (AI Practitioner)
-*A deconstruction of AWS AI primitives, achieved and archived.*
-- Amazon Bedrock & Foundation Models
-- Prompt Engineering Mechanics
-- SageMaker Operations & AI Security
+### 🎓 Professional Certifications
+<a href="https://www.credly.com/badges/35576787-3eae-4380-9f8d-552bd8f7ae66/linked_in_profile" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/2784d9d8-1111-4384-8509-f30018f3a3f5/image.png" width="130" alt="AWS Certified AI Practitioner">
+</a>
 
-### 2. Solutions Architecture (SAA-Current Focus)
-*The mechanical components of scalable, fault-tolerant infrastructure.*
-- **Compute:** EC2 (Tension, Scaling, Friction), Lambda, Containerization (ECS/EKS)
-- **Networking:** VPC Anatomy, Route 53, CloudFront edge delivery
-- **Storage:** S3 Lifecycle Data Mechanics, EBS, EFS
-- **Databases:** Relational (RDS/Aurora) vs. Key-Value (DynamoDB)
-- **Security & Identity:** IAM precision, KMS cryptographic protocols
+- **AWS Certified AI Practitioner** *(Achieved: August 2026)*
+- **AWS Certified Solutions Architect – Associate (SAA)** *(In Progress)*
 
-## ⚙️ The Ripple Effect 
-This repository is a living artifact. As new foundational services are mastered, they are structurally linked to broader systemic concepts such as **Infrastructure as Code (Terraform)** and **DevOps pipelines**.
+---
+
+### 🏅 Digital Badges
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core-training-badge" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/e77353f4-e758-4115-b364-e20c655938bf/image.png" width="110" alt="AWS Knowledge: Networking Core">
+</a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/6df34dc0-811c-43f1-b99b-5034c4f365bc/image.png" width="110" alt="AWS Knowledge: File Storage">
+</a>
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/4a769d31-ce86-4f40-845a-c6368d71d374/image.png" width="110" alt="AWS Knowledge: Compute">
+</a>
+
+- **AWS Knowledge: Networking Core** — Virtual networks, traffic management, and cloud security basics.
+- **AWS Knowledge: File Storage** — Shared network file systems and AWS storage management.
+- **AWS Knowledge: Compute** — Virtual machines (EC2), server scaling, and compute fundamentals.
+
+---
+
+## 📚 Repository Overview
+
+This repository contains notes organized by core AWS domains:
+
+* **Artificial Intelligence & ML:** Bedrock, SageMaker, and Prompt Engineering basics.
+* **Compute:** EC2, AWS Lambda, and containerization (ECS/EKS).
+* **Networking:** VPC, Route 53, and CloudFront edge delivery.
+* **Storage & Databases:** S3, EBS, EFS, RDS/Aurora, and DynamoDB.
+* **Security & Governance:** IAM, KMS cryptographic protocols, and security best practices.
+* **DevOps & Automation:** Infrastructure as Code (Terraform) and deployment pipelines.
+
+---
+
+## 📌 Links & Verification
+Click on any badge image above to verify my credentials directly on Credly.
