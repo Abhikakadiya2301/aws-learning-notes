@@ -9,7 +9,7 @@ Welcome to my repository of Amazon Web Services (AWS) study notes, architectural
 
 ### 🎓 Professional Certifications
 <a href="https://www.credly.com/badges/35576787-3eae-4380-9f8d-552bd8f7ae66/linked_in_profile" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/2784d9d8-1111-4384-8509-f30018f3a3f5/image.png" width="130" alt="AWS Certified AI Practitioner">
+  <img src="https://github.com/Abhikakadiya2301/aws-learning-notes/blob/855ac796ed18338f48298368d3b1e04bddc11078/image.png" width="130" alt="AWS Certified AI Practitioner">
 </a>
 
 - **AWS Certified AI Practitioner** *(Achieved: August 2026)*
