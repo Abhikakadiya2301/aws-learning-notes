@@ -19,7 +19,7 @@ Welcome to my repository of Amazon Web Services (AWS) study notes, architectural
 
 ### 🏅 Digital Badges
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-networking-core-training-badge" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/e77353f4-e758-4115-b364-e20c655938bf/image.png" width="110" alt="AWS Knowledge: Networking Core">
+  <img src="https://github.com/Abhikakadiya2301/aws-learning-notes/blob/e75ee8d0532a11094853d0db26971082e981ea4e/Network.png" width="110" alt="AWS Knowledge: Networking Core">
 </a>
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge" target="_blank">
   <img src="https://github.com/Abhikakadiya2301/aws-learning-notes/blob/62158a362faa1387db854f751259065c0de6b081/Storage.png" width="110" alt="AWS Knowledge: File Storage">
