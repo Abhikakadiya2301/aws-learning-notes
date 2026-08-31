@@ -22,7 +22,7 @@ Welcome to my repository of Amazon Web Services (AWS) study notes, architectural
   <img src="https://images.credly.com/size/340x340/images/e77353f4-e758-4115-b364-e20c655938bf/image.png" width="110" alt="AWS Knowledge: Networking Core">
 </a>
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-file-storage-training-badge" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/6df34dc0-811c-43f1-b99b-5034c4f365bc/image.png" width="110" alt="AWS Knowledge: File Storage">
+  <img src="https://github.com/Abhikakadiya2301/aws-learning-notes/blob/62158a362faa1387db854f751259065c0de6b081/Storage.png" width="110" alt="AWS Knowledge: File Storage">
 </a>
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/4a769d31-ce86-4f40-845a-c6368d71d374/image.png" width="110" alt="AWS Knowledge: Compute">
