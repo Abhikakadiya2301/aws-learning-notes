@@ -25,7 +25,7 @@ Welcome to my repository of Amazon Web Services (AWS) study notes, architectural
   <img src="https://github.com/Abhikakadiya2301/aws-learning-notes/blob/62158a362faa1387db854f751259065c0de6b081/Storage.png" width="110" alt="AWS Knowledge: File Storage">
 </a>
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-knowledge-compute-training-badge" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/4a769d31-ce86-4f40-845a-c6368d71d374/image.png" width="110" alt="AWS Knowledge: Compute">
+  <img src="https://github.com/Abhikakadiya2301/aws-learning-notes/blob/272483f7202dd3adacb4707b67c9670751f250b3/compute.png" width="110" alt="AWS Knowledge: Compute">
 </a>
 
 - **AWS Knowledge: Networking Core** — Virtual networks, traffic management, and cloud security basics.
